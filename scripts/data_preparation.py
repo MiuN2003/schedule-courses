@@ -2,11 +2,11 @@ import pandas as pd
 import psycopg2
 
 db_config = {
-'host': 'db-youpass-do-user-15981760-0.c.db.ondigitalocean.com',
-'database': 'drt',
-'user': 'cola',
-'password': 'AVNS_QuPfxcpDcLXuA4V_Dlf',
-'port': '25060'
+'host': '',
+'database': '',
+'user': '',
+'password': '',
+'port': ''
 }
 
 conn = psycopg2.connect(**db_config)
