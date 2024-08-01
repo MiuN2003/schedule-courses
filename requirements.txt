@@ -1,0 +1,6 @@
+ortools
+pulp
+pandas
+numpy
+gdown
+psycopg2
